@@ -1,18 +1,9 @@
 body {
-    /*background-image: url("code-bc.jpg");*/
+    background-image: url("images/qhaagsd.png");
     text-align: center;
 }
-/*
-h1, p, #result {
-    color: white;
-}
-*/
-#myForm input {
-    margin-bottom: 10px;
-}
 
-@media screen and (min-width: 414px) {
-    form input {
-        margin-bottom: 0;
-    }
+p {
+    margin-top: 30px;
+    margin-bottom: 0;
 }
